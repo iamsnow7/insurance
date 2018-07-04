@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+    <a href="#design">first</a><br/>
+    <a href="#intro">second</a>
+
+
+    <div class="design" id="design">
+      THE DESIGN To start from user authentication, all users who registered with their GOOGLE ACCOUNT were successfully registere
+      d. Any account other than a google account were discarded. In the database section of the firebase console, authenticated users have their information such as name and email addresses stored for security and other reasons.
+
+      For uploads of items, all items were successfu
+      lly saved in the storage section. Uploaded items also have their names, URL for the image of the item upload (the URL is the path used for the download of the images to the home screen) and respective prices saved in the database. Information about items uploaded are those retrieved onto the home page when ever a user logs in to the application.
+
+      All items selected were placed in the cart, and
+      if user selected more than one (1) item, all prices were matched with the exact item names.
+      d. Any account other than a google account were discarded. In the database section of the firebase console, authenticated users have their information such as name and email addresses stored for security and other reasons.
+
+      For uploads of items, all items were successfu
+      lly saved in the storage section. Uploaded items also have their names, URL for the image of the item upload (the URL is the path used for the download of the images to the home screen) and respective prices saved in the database. Information about items uploaded are those retrieved onto the home page when ever a user logs in to the application.
+
+      All items selected were placed in the cart, and
+      if user selected more than one (1) item, all prices were matched with the exact item names.
+      d. Any account other than a google account were discarded. In the database section of the firebase console, authenticated users have their information such as name and email addresses stored for security and other reasons.
+
+      For uploads of items, all items were successfu
+      lly saved in the storage section. Uploaded items also have their names, URL for the image of the item upload (the URL is the path used for the download of the images to the home screen) and respective prices saved in the database. Information about items uploaded are those retrieved onto the home page when ever a user logs in to the application.
+
+      All items selected were placed in the cart, and
+      if user selected more than one (1) item, all prices were matched with the exact item names.
+      d. Any account other than a google account were discarded. In the database section of the firebase console, authenticated users have their information such as name and email addresses stored for security and other reasons.
+
+      For uploads of items, all items were successfu
+      lly saved in the storage section. Uploaded items also have their names, URL for the image of the item upload (the URL is the path used for the download of the images to the home screen) and respective prices saved in the database. Information about items uploaded are those retrieved onto the home page when ever a user logs in to the application.
+
+      All items selected were placed in the cart, and
+      if user selected more than one (1) item, all prices were matched with the exact item names.
+      d. Any account other than a google account were discarded. In the database section of the firebase console, authenticated users have their information such as name and email addresses stored for security and other reasons.
+
+      For uploads of items, all items were successfu
+      lly saved in the storage section. Uploaded items also have their names, URL for the image of the item upload (the URL is the path used for the download of the images to the home screen) and respective prices saved in the database. Information about items uploaded are those retrieved onto the home page when ever a user logs in to the application.
+
+      All items selected were placed in the cart, and
+      if user selected more than one (1) item, all prices were matched with the exact item names.
+      d. Any account other than a google account were discarded. In the database section of the firebase console, authenticated users have their information such as name and email addresses stored for security and other reasons.
+
+      For uploads of items, all items were successfu
+      lly saved in the storage section. Uploaded items also have their names, URL for the image of the item upload (the URL is the path used for the download of the images to the home screen) and respective prices saved in the database. Information about items uploaded are those retrieved onto the home page when ever a user logs in to the application.
+
+      All items selected were placed in the cart, and
+      if user selected more than one (1) item, all prices were matched with the exact item names.
+      d. Any account other than a google account were discarded. In the database section of the firebase console, authenticated users have their information such as name and email addresses stored for security and other reasons.
+
+      For uploads of items, all items were successfu
+      lly saved in the storage section. Uploaded items also have their names, URL for the image of the item upload (the URL is the path used for the download of the images to the home screen) and respective prices saved in the database. Information about items uploaded are those retrieved onto the home page when ever a user logs in to the application.
+
+      All items selected were placed in the cart, and
+      if user selected more than one (1) item, all prices were matched with the exact item names.
+      d. Any account other than a google account were discarded. In the database section of the firebase console, authenticated users have their information such as name and email addresses stored for security and other reasons.
+
+      For uploads of items, all items were successfu
+      lly saved in the storage section. Uploaded items also have their names, URL for the image of the item upload (the URL is the path used for the download of the images to the home screen) and respective prices saved in the database. Information about items uploaded are those retrieved onto the home page when ever a user logs in to the application.
+
+      All items selected were placed in the cart, and
+      if user selected more than one (1) item, all prices were matched with the exact item names.
+      d. Any account other than a google account were discarded. In the database section of the firebase console, authenticated users have their information such as name and email addresses stored for security and other reasons.
+
+      For uploads of items, all items were successfu
+      lly saved in the storage section. Uploaded items also have their names, URL for the image of the item upload (the URL is the path used for the download of the images to the home screen) and respective prices saved in the database. Information about items uploaded are those retrieved onto the home page when ever a user logs in to the application.
+
+      All items selected were placed in the cart, and
+      if user selected more than one (1) item, all prices were matched with the exact item names.
+    </div>
+
+    <div class="intro" id="intro" style="margin-top: 30px;">
+    THE INTRO  In this chapter, the main application is designed and tested. Atom Text Editor is used for all the writing of the codes for the actual design as well as GOOGLE Chrome is used to see the designs output and also for optimizing the design performance with simulations and analyses.
+      GOOGLE chrome browser’s development tool is used for all debugging process. This browser was choses due to its powerful tools for debugging. Results are monitored and all findings described. Implementing the work strategy, the chapter went through the following stages:
+      •	Design Set-Up and Simulation
+      •	Method of Analysis
+      •	Result and Discussions
+
+
+      4.1 DESIGN SET-UP AND SIMULATION
+      In the coding process, the application required a number of pages namely, the admin-order page, admin-products page, product-form page, login page, home page, check out page etc.
+      Each of these pages has its own working file (HTML FILE).
+      In angular, to start a new project, the “ng new component” is used on the command line interface. Also to create an HTML File, the “ng g component” is used on the command line interface. Each component introduced has its own typescript, html and css file.
+
+    </div>
+
+    <div class="design" id="last" style="margin-top: 30px;">
+      THE LAST To start from user authentication, all users who registered with their GOOGLE ACCOUNT were successfully registere
+      d. Any account other than a google account were discarded. In the database section of the firebase console, authenticated users have their information such as name and email addresses stored for security and other reasons.
+
+      For uploads of items, all items were successfu
+      lly saved in the storage section. Uploaded items also have their names, URL for the image of the item upload (the URL is the path used for the download of the images to the home screen) and respective prices saved in the database. Information about items uploaded are those retrieved onto the home page when ever a user logs in to the application.
+
+      All items selected were placed in the cart, and
+      if user selected more than one (1) item, all prices were matched with the exact item names.
+      d. Any account other than a google account were discarded. In the database section of the firebase console, authenticated users have their information such as name and email addresses stored for security and other reasons.
+
+      For uploads of items, all items were successfu
+      lly saved in the storage section. Uploaded items also have their names, URL for the image of the item upload (the URL is the path used for the download of the images to the home screen) and respective prices saved in the database. Information about items uploaded are those retrieved onto the home page when ever a user logs in to the application.
+
+      All items selected were placed in the cart, and
+      if user selected more than one (1) item, all prices were matched with the exact item names.
+      d. Any account other than a google account were discarded. In the database section of the firebase console, authenticated users have their information such as name and email addresses stored for security and other reasons.
+
+      For uploads of items, all items were successfu
+      lly saved in the storage section. Uploaded items also have their names, URL for the image of the item upload (the URL is the path used for the download of the images to the home screen) and respective prices saved in the database. Information about items uploaded are those retrieved onto the home page when ever a user logs in to the application.
+
+      All items selected were placed in the cart, and
+      if user selected more than one (1) item, all prices were matched with the exact item names.
+      d. Any account other than a google account were discarded. In the database section of the firebase console, authenticated users have their information such as name and email addresses stored for security and other reasons.
+
+      For uploads of items, all items were successfu
+      lly saved in the storage section. Uploaded items also have their names, URL for the image of the item upload (the URL is the path used for the download of the images to the home screen) and respective prices saved in the database. Information about items uploaded are those retrieved onto the home page when ever a user logs in to the application.
+
+      All items selected were placed in the cart, and
+      if user selected more than one (1) item, all prices were matched with the exact item names.
+      d. Any account other than a google account were discarded. In the database section of the firebase console, authenticated users have their information such as name and email addresses stored for security and other reasons.
+
+      For uploads of items, all items were successfu
+      lly saved in the storage section. Uploaded items also have their names, URL for the image of the item upload (the URL is the path used for the download of the images to the home screen) and respective prices saved in the database. Information about items uploaded are those retrieved onto the home page when ever a user logs in to the application.
+
+      All items selected were placed in the cart, and
+      if user selected more than one (1) item, all prices were matched with the exact item names.
+      d. Any account other than a google account were discarded. In the database section of the firebase console, authenticated users have their information such as name and email addresses stored for security and other reasons.
+
+      For uploads of items, all items were successfu
+      lly saved in the storage section. Uploaded items also have their names, URL for the image of the item upload (the URL is the path used for the download of the images to the home screen) and respective prices saved in the database. Information about items uploaded are those retrieved onto the home page when ever a user logs in to the application.
+
+      All items selected were placed in the cart, and
+      if user selected more than one (1) item, all prices were matched with the exact item names.
+      d. Any account other than a google account were discarded. In the database section of the firebase console, authenticated users have their information such as name and email addresses stored for security and other reasons.
+
+      For uploads of items, all items were successfu
+      lly saved in the storage section. Uploaded items also have their names, URL for the image of the item upload (the URL is the path used for the download of the images to the home screen) and respective prices saved in the database. Information about items uploaded are those retrieved onto the home page when ever a user logs in to the application.
+
+      All items selected were placed in the cart, and
+      if user selected more than one (1) item, all prices were matched with the exact item names.
+      d. Any account other than a google account were discarded. In the database section of the firebase console, authenticated users have their information such as name and email addresses stored for security and other reasons.
+
+      For uploads of items, all items were successfu
+      lly saved in the storage section. Uploaded items also have their names, URL for the image of the item upload (the URL is the path used for the download of the images to the home screen) and respective prices saved in the database. Information about items uploaded are those retrieved onto the home page when ever a user logs in to the application.
+
+      All items selected were placed in the cart, and
+      if user selected more than one (1) item, all prices were matched with the exact item names.
+      d. Any account other than a google account were discarded. In the database section of the firebase console, authenticated users have their information such as name and email addresses stored for security and other reasons.
+
+      For uploads of items, all items were successfu
+      lly saved in the storage section. Uploaded items also have their names, URL for the image of the item upload (the URL is the path used for the download of the images to the home screen) and respective prices saved in the database. Information about items uploaded are those retrieved onto the home page when ever a user logs in to the application.
+
+      All items selected were placed in the cart, and
+      if user selected more than one (1) item, all prices were matched with the exact item names.
+    </div>
+
+  </body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+  <script type="text/javascript">
+  $(document).ready(function(){
+    $("a").on('click', function(event) {
+      if (this.hash !== "") {
+        event.preventDefault();
+        var hash = this.hash;
+        $('html, body').animate({
+          scrollTop: $(hash).offset().top
+        }, 800, function(){
+          window.location.hash = hash;
+        });
+      }
+    });
+  });
+  </script>
+</html>

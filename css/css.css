@@ -1,0 +1,147 @@
+/* for smaller screens */
+
+@media screen and (max-width: 600px) {
+
+
+
+
+
+}
+
+
+
+
+/* for big screens */
+
+/* @media screen and (min-width: 600px){ */
+body{
+	cursor: pointer;
+}
+	.contactInfo{
+		background:	#331900;
+	}
+	.contact{
+		list-style: none;
+		float:right;
+		padding:10px;
+		color: #bbbbbb;
+	}
+	.contactLink{
+		color: #bbbbbb;
+	}
+	.contactLink:hover{
+		color: #bbbbbb;
+		text-decoration: none;
+	}
+	.contactLink:focus{
+		color: #bbbbbb;
+		text-decoration: none;
+		outline:none;
+	}
+	.wrapper{
+		padding:30px;
+		/* border: 1px solid black; */
+	}
+	.navigation{
+		list-style: none;
+		float:left;
+		width: 130px;
+		font-size: 18px;
+	}
+	.nav_link{
+		padding: 5px;
+	}
+	.nav_link:hover{
+		border-bottom: 5px solid brown;
+		text-decoration: none;
+		transition: .4s all;
+
+	}
+	.clear{
+		clear: both;
+	}
+	.get_started{
+		text-align: center;
+		margin: 0 auto;
+		max-width: 300px;
+	}
+	.get_started_btn{
+		padding: 10px;
+		/* text-align: center; */
+		background: #0099cc;
+		border: none;
+		outline:none;
+		color:white;
+	}
+	.description{
+		width: 100%;
+		text-align: center;
+		margin: 10px auto;
+		max-width: 400px;
+		font-size: 15px;
+		font-weight: bold;
+		font-family: 'Poppins', sans-serif;
+
+	}
+	.banner{
+		width:100%;
+		background-image: url('images/Impact-Investing-Jars.jpg');
+		background-repeat:no-repeat;
+		background-size:cover;
+	}
+	.content_wrapper{
+		max-width: 1200px;
+		margin: 40px auto;
+	}
+	.works{
+		max-width: 1200px;
+		margin: 0 auto;
+	}
+	.work_para{
+		line-height:21px;
+		width:80%;
+		padding:5px;
+		font-family: 'Poppins', sans-serif;
+		font-size:18px;
+		margin-top: 5px;
+	}
+.registerList{
+	font-size: 18px;
+}
+
+.terms{
+	max-width: 1200px;
+	margin: 0 auto;
+	background-color: #f8f8f8;
+}
+.termsPara{
+	line-height:21px;
+	width:80%;
+	padding:5px;
+	font-family: 'Poppins', sans-serif;
+	font-size:18px;
+	margin-top: 5px;
+}
+
+
+.md-button:not([disabled]):hover {
+  background-color: rgba(158, 158, 158, 0.2);
+}
+/* .md-button{
+  color : rgba(0, 0, 0, 0.26);
+	background-color: rgba(158, 158, 158, 0.2);
+} */
+
+.md-button[disabled] {
+  color : rgba(0, 0, 0, 0.26);
+  background-color: transparent;
+}
+tr{
+	height: 40px;
+	width: 100%;
+}
+
+
+
+
+}
